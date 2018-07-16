@@ -1,4 +1,6 @@
-# indecisionApp-React:
+
+# IndecisionApp-React.github.io
+
 App pick random option to help user to make decision between different options if he is indecisive.
 
 tools used:
